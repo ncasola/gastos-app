@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1032)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(5.46875,0,0,5.46875,150,150)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 128 128">
+  <!-- Fondo circular con gradiente -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1"></stop>
+    </linearGradient>
+    <linearGradient id="coinGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1"></stop>
+    </linearGradient>
+  <clipPath id="SvgjsClipPath1032"><rect width="1000" height="1000" x="0" y="0" rx="350" ry="350"></rect></clipPath></defs>
+  
+  <!-- Círculo de fondo -->
+  <circle cx="64" cy="64" r="60" fill="url(#bgGradient)" stroke="#1e40af" stroke-width="2"></circle>
+  
+  <!-- Moneda principal -->
+  <circle cx="64" cy="64" r="28" fill="url(#coinGradient)" stroke="#d97706" stroke-width="2"></circle>
+  
+  <!-- Símbolo de euro en la moneda -->
+  <path d="M52 50 Q64 45 76 50 M52 78 Q64 83 76 78 M52 50 L52 78 M76 50 L76 78" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none"></path>
+  
+  <!-- Monedas pequeñas decorativas -->
+  <circle cx="40" cy="40" r="8" fill="url(#coinGradient)" opacity="0.8"></circle>
+  <circle cx="88" cy="40" r="8" fill="url(#coinGradient)" opacity="0.8"></circle>
+  <circle cx="40" cy="88" r="8" fill="url(#coinGradient)" opacity="0.8"></circle>
+  <circle cx="88" cy="88" r="8" fill="url(#coinGradient)" opacity="0.8"></circle>
+  
+  <!-- Líneas de gráfico -->
+  <path d="M20 100 L35 85 L50 95 L65 75 L80 85 L95 70" stroke="#ffffff" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.6"></path>
+  
+  <!-- Puntos en el gráfico -->
+  <circle cx="35" cy="85" r="2" fill="#ffffff" opacity="0.8"></circle>
+  <circle cx="50" cy="95" r="2" fill="#ffffff" opacity="0.8"></circle>
+  <circle cx="65" cy="75" r="2" fill="#ffffff" opacity="0.8"></circle>
+  <circle cx="80" cy="85" r="2" fill="#ffffff" opacity="0.8"></circle>
+</svg></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g clip-path="url(#SvgjsClipPath1033)"><rect width="1000" height="1000" fill="#ffffff"></rect><g transform="matrix(5.46875,0,0,5.46875,150,150)"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 128 128">
+  <!-- Fondo circular con gradiente -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#1e40af;stop-opacity:1"></stop>
+    </linearGradient>
+    <linearGradient id="coinGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fbbf24;stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1"></stop>
+    </linearGradient>
+  <clipPath id="SvgjsClipPath1033"><rect width="1000" height="1000" x="0" y="0" rx="350" ry="350"></rect></clipPath></defs>
+  
+  <!-- Círculo de fondo -->
+  <circle cx="64" cy="64" r="60" fill="url(#bgGradient)" stroke="#1e40af" stroke-width="2"></circle>
+  
+  <!-- Moneda principal -->
+  <circle cx="64" cy="64" r="28" fill="url(#coinGradient)" stroke="#d97706" stroke-width="2"></circle>
+  
+  <!-- Símbolo de euro en la moneda -->
+  <path d="M52 50 Q64 45 76 50 M52 78 Q64 83 76 78 M52 50 L52 78 M76 50 L76 78" stroke="#ffffff" stroke-width="3" stroke-linecap="round" fill="none"></path>
+  
+  <!-- Monedas pequeñas decorativas -->
+  <circle cx="40" cy="40" r="8" fill="url(#coinGradient)" opacity="0.8"></circle>
+  <circle cx="88" cy="40" r="8" fill="url(#coinGradient)" opacity="0.8"></circle>
+  <circle cx="40" cy="88" r="8" fill="url(#coinGradient)" opacity="0.8"></circle>
+  <circle cx="88" cy="88" r="8" fill="url(#coinGradient)" opacity="0.8"></circle>
+  
+  <!-- Líneas de gráfico -->
+  <path d="M20 100 L35 85 L50 95 L65 75 L80 85 L95 70" stroke="#ffffff" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.6"></path>
+  
+  <!-- Puntos en el gráfico -->
+  <circle cx="35" cy="85" r="2" fill="#ffffff" opacity="0.8"></circle>
+  <circle cx="50" cy="95" r="2" fill="#ffffff" opacity="0.8"></circle>
+  <circle cx="65" cy="75" r="2" fill="#ffffff" opacity="0.8"></circle>
+  <circle cx="80" cy="85" r="2" fill="#ffffff" opacity="0.8"></circle>
+</svg></svg></g></g></svg></g></svg>
