@@ -2,9 +2,9 @@
 
 Una aplicación web moderna y responsive para gestionar tus gastos personales, construida con Next.js, TypeScript y Tailwind CSS.
 
-![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Dexie.js](https://img.shields.io/badge/Dexie.js-4-FF6B6B?style=for-the-badge&logo=indexeddb)
 
 ## ✨ Características Principales
